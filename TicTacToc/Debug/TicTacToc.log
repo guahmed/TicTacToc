@@ -1,0 +1,3 @@
+﻿  TicTacToc.cpp
+C:\Users\ahmed guetat\source\repos\TicTacToc\TicTacToc\TicTacToc.cpp(33): warning C4101: 'char_P1' : variable locale non référencée
+  TicTacToc.vcxproj -> C:\Users\ahmed guetat\source\repos\TicTacToc\Debug\TicTacToc.exe
